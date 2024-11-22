@@ -1,5 +1,5 @@
 # ARstatistic_supplementary
-Supplementary materials for the article "Using rejection sampling probability of acceptance as a measure of independence"
+Supplementary materials for the article "Using rejection sampling probability of acceptance as a measure of independence" [https://doi.org/10.1080/10618600.2024.2388544](https://doi.org/10.1080/10618600.2024.2388544)
 
 The R package `ARstatistic` can be found at [https://github.com/markkukuismin/ARstatistic](https://github.com/markkukuismin/ARstatistic). DOI: 10.5281/zenodo.12740094
 
